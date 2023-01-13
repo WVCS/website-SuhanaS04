@@ -1,14 +1,13 @@
 body {
-  body {
   background-color: #aa8f66;
 }
 h2 {
-  color: #e6fdff;
-  font-size: 100%;
-  letter-spacing: 6px;
+  color: #E4E3D3;
+  font-size: 300%;
+  letter-spacing: 1px;
 }
 p {
-  color: #e6fdff;
+  color: #E4E3D3;
   fint-size: 200%;
 }
 ul {
@@ -22,7 +21,7 @@ li {
 }
 li a {
   padding: 10px;
-  font-family: "Papyrus", Fantasy;
+  font-family: "Times New Roman", Fantasy;
   border-style: dashed;
   color: #e6fdff;
   text-decoration-line: none;
@@ -30,7 +29,4 @@ li a {
 li a:hover {
   background-color: beige;
   color: green;
-}
-
-
 }
