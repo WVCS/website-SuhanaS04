@@ -21,3 +21,38 @@
       <br>
 
 </html>
+
+<style>
+body {
+  background-color: #aa8f66;
+}
+h2 {
+  color: #E4E3D3;
+  font-size: 300%;
+  letter-spacing: 1px;
+}
+p {
+  color: #E4E3D3;
+  fint-size: 200%;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+li {
+  float: left;
+}
+li a {
+  padding: 10px;
+  font-family: "Times New Roman", Fantasy;
+  border-style: dashed;
+  color: #e6fdff;
+  text-decoration-line: none;
+}
+li a:hover {
+  background-color: beige;
+  color: green;
+}
+</style>
